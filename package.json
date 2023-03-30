@@ -1,0 +1,24 @@
+{
+  "name": "spotify-account-checker",
+  "version": "1.0.0",
+  "description": "A simple script to check the login status of Spotify accounts,only check can login or no",
+  "main": "autologin.js",
+  "scripts": {
+    "test": "node autologin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahreza008/Spotify-Account-Checker.git"
+  },
+  "keywords": [
+    "Spotify",
+    "Account",
+    "Checker"
+  ],
+  "author": "Fahreza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahreza008/Spotify-Account-Checker/issues"
+  },
+  "homepage": "https://github.com/fahreza008/Spotify-Account-Checker#readme"
+}
